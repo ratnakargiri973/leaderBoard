@@ -6,7 +6,7 @@ const addPlayer = document.getElementById("addPlayer");
 
 let data = [
   {
-    firstName: "Ratnkar",
+    firstName: "Ratnakar",
     lastName: "Giri",
     time: "May 27 2024 17:29:36",
     country: "ind",
