@@ -6,21 +6,21 @@ const addPlayer = document.getElementById("addPlayer");
 
 let data = [
   {
-    firstName: "Pritiranjan",
-    lastName: "Patra",
+    firstName: "Ratnkar",
+    lastName: "Giri",
     time: "May 27 2024 17:29:36",
     country: "ind",
     score: 95,
   },
   {
-    firstName: "Saswat",
+    firstName: "Sambit",
     lastName: "Moharana",
     time: "May 27 2024 12:29:31",
     country: "Pak",
     score: 96,
   },
   {
-    firstName: "Rajendra",
+    firstName: "Abhay",
     lastName: "Ojha",
     time: "May 27 2024 07:19:18",
     country: "Eng",
